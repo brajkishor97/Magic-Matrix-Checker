@@ -31,7 +31,7 @@ function ready_1(){
   var ready = 15;
 
 /* Initilaize  x1,x2,x3,x4,x5,x6,x7,x8,x9 for Nine blank poistion of 3*3 Square matrix.*/
-/* Fetch the value one by one and save into respective variable x1,x2,x3,x4,x5,x6,x7,x8,x9. */
+/* Fetch the value one by one and save into respective variable x1, x2, x3, x4, x5, x6, x7, x8, x9. */
 
 var x1 = parseInt(document.getElementById("in1").value);
 var x2 = parseInt(document.getElementById("in2").value);
