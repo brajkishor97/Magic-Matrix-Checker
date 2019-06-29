@@ -9,3 +9,8 @@ Algorithm to check magic matrix.
 Calculate sum of each rows and columns.
 Find sum of principal diagonal and anti principal diagonal.
 If the prime diagonal and secondary diagonal sums is equal to every row’s sum and every column’s sum, then it is magic matrix. otherwise it is not Magic Square Matrix. 
+
+To Get desire output on the webpage.
+Directly open index.html using any browser.
+After that they ask about entering the number.
+After that click on the ready button, it will tell you whether the given magic matrix is Magic Matrix or Not.
