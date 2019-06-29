@@ -1,0 +1,33 @@
+.description{
+    margin-top: 23px;
+    margin-left: 5%;
+    font-size: 15px;
+    font-family: 'Roboto Condensed', sans-serif;
+    
+}
+
+.low{
+  background-color: lightgreen;
+  width: 85px;
+  height: 40px;
+  margin-left: 47.5%;
+  margin-bottom: 35px;
+}
+
+.center{
+    text-align: center;
+     5px; */
+}
+.test{
+    text-align: center; 
+}
+.btn_1{
+    margin-top: 15px;
+    width: 85px;
+    height: 40px;
+    background-color: yellow;
+    
+}
+
+
+
