@@ -1,4 +1,4 @@
-##Magic-Matrix-Checker
+#Magic-Matrix-Checker
 
 What is Magic Square Matrix ?
 
